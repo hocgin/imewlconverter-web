@@ -1,0 +1,15 @@
+# heroui-agents-md
+.heroui-docs/
+node_modules/
+dist/
+public/engine/
+wasm-host/bin/
+wasm-host/obj/
+artifacts/
+*.tsbuildinfo
+.DS_Store
+.cloudflare/
+
+__pycache__/
+
+.prerender/

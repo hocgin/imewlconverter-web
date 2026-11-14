@@ -1,0 +1,3 @@
+[submodule "imewlconverter-wasm"]
+	path = imewlconverter-wasm
+	url = git@github.com:hocgin/imewlconverter-wasm.git

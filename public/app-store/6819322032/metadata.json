@@ -1,0 +1,30 @@
+{
+  "appId": "6819322032",
+  "fetchedAt": "2026-11-14T06:21:42.043Z",
+  "locales": {
+    "en": {
+      "name": "DDUP - Type & Learn",
+      "url": "https://apps.apple.com/us/app/ddup-type-learn/id6819322032?uo=4",
+      "version": "1.6.0",
+      "minimumOsVersion": "18.0",
+      "icon": "/app-store/6819322032/ddup-icon-9b5380f5d108.jpg",
+      "source": "https://itunes.apple.com/lookup?id=6819322032&country=us"
+    },
+    "zh-hans": {
+      "name": "DDUP 输入法 - 边打字，边学单词，支持8种语言",
+      "url": "https://apps.apple.com/cn/app/ddup-%E8%BE%93%E5%85%A5%E6%B3%95-%E8%BE%B9%E6%89%93%E5%AD%97-%E8%BE%B9%E5%AD%A6%E5%8D%95%E8%AF%8D-%E6%94%AF%E6%8C%818%E7%A7%8D%E8%AF%AD%E8%A8%80/id6819322032?uo=4",
+      "version": "1.6.0",
+      "minimumOsVersion": "18.0",
+      "icon": "/app-store/6819322032/ddup-icon-9b5380f5d108.jpg",
+      "source": "https://itunes.apple.com/lookup?id=6819322032&country=cn"
+    },
+    "zh-hant": {
+      "name": "DDUP 輸入法 - 邊打字，邊學單詞，支援8種語言",
+      "url": "https://apps.apple.com/tw/app/ddup-%E8%BC%B8%E5%85%A5%E6%B3%95-%E9%82%8A%E6%89%93%E5%AD%97-%E9%82%8A%E5%AD%B8%E5%96%AE%E8%A9%9E-%E6%94%AF%E6%8F%B48%E7%A8%AE%E8%AA%9E%E8%A8%80/id6819322032?uo=4",
+      "version": "1.6.0",
+      "minimumOsVersion": "18.0",
+      "icon": "/app-store/6819322032/ddup-icon-9b5380f5d108.jpg",
+      "source": "https://itunes.apple.com/lookup?id=6819322032&country=tw"
+    }
+  }
+}

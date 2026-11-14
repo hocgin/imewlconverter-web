@@ -1,0 +1,6 @@
+{
+  "maxInputBytes": 52428800,
+  "warnInputBytes": 10485760,
+  "maxMappingBytes": 5242880,
+  "maxFiles": 100
+}

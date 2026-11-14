@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.WebAssembly">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RuntimeIdentifier>browser-wasm</RuntimeIdentifier>
+    <OutputType>Exe</OutputType>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <WasmEnableHotReload>false</WasmEnableHotReload>
+    <WasmBuildNative>false</WasmBuildNative>
+    <JsonSerializerIsReflectionEnabledByDefault>true</JsonSerializerIsReflectionEnabledByDefault>
+    <PublishTrimmed>false</PublishTrimmed>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../imewlconverter-wasm/upstream/imewlconverter/src/ImeWlConverter.Application/ImeWlConverter.Application.csproj" />
+    <EmbeddedResource Include="../shared/limits.json" LogicalName="Converter.Limits" />
+  </ItemGroup>
+</Project>
